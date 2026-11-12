@@ -178,8 +178,8 @@ body {
     display: flex
 }
 .button:hover {
-    background-color: #264F99;
-    color: #fefdfa;
+    background-color: #Fcb788;
+    color: #333333;
 }
 iframe {
     margin-left: 150px;
